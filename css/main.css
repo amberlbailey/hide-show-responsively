@@ -62,4 +62,8 @@ img {
     width: 24%;
   }
 
+  body {
+    transform: translate(2%);
+  }
+
 }
