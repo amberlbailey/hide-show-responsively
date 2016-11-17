@@ -44,10 +44,10 @@ img {
   }
 }
 
-@media only screen and (min-width: 40em) {
+@media only screen and (min-width: 38em) {
 
   img {
-    width: 32.5%
+    width: 32.5%;
   }
 
   img:first-child {
@@ -57,9 +57,9 @@ img {
 
 @media only screen and (min-width: 60em) {
 
-    img, img:first-child {
+  img, img:first-child {
     display: inline-block;
-    width: 24%
+    width: 24%;
   }
 
 }
